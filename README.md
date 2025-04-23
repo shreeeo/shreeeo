@@ -1,5 +1,5 @@
-<h1 align="center">Hey there 👋, I'm Akshay Rajaram Patil</h1>
-<h3 align="center">🎓 B.Sc. CS | 🧠 Data Analyst | 📊 Python • SQL • Power BI | Navi Mumbai</h3>
+<h1 align="center">Hey there 👋, I'm Atharva Shashikant Ghadge</h1>
+<h3 align="center">🎓 B.Sc. CS | 🧠 Data Analyst | 📊 Python • SQL • Power BI | Thane</h3>
 
 <p align="center">
   <img 
@@ -100,8 +100,8 @@
 
 <p align="center">
   <a href="mailto:xpatilakshay@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/xpatilakshay/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/xpatilakshay"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/atharva-ghadge-571990220/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/shreeeo"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
