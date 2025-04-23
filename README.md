@@ -12,8 +12,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **Graduated B.Sc. in Computer Science** from KBP College, Vashi with a **CGPA of 9.63**
-- 📍 Based in **Ghansoli, Navi Mumbai**
+- 🎓 **Graduated B.Sc. in Computer Science** from KBP College, Vashi with a **CGPA of 7.03**
+- 📍 Based in **THANE**
 - 🔍 Passionate about solving real-world problems through data
 - 📊 Skilled in **Python**, **SQL**, **Power BI**, **Pandas**, and **Matplotlib**
 - 💬 Constant learner transitioning into **Data Science** and **AI**
