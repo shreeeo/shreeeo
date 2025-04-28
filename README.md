@@ -70,6 +70,19 @@
 - [📊 Power BI - Prism Edu Skills](https://drive.google.com/file/d/1HWVXe9DjdVQis6-dqEZFohbtaQ0UgQhI/view?usp=sharing)
 - [📊 Angular React Bootstrap - A.I.I.I.T.S by Pinnacle Infotech](https://drive.google.com/file/d/1cThiyMcwz_gEJH57o4oVVN9pHPXQVnfl/view?usp=sharing)
 - [🔐 IBM: Intro to Cybersecurity Tools & Attacks](https://drive.google.com/file/d/1BphZa8cEilD4d9CrtFK7F1NA_FVphfLu/view?usp=sharing)
+- 
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreeeo&show_icons=true&theme=midnight-purple&hide_border=true" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreeeo&theme=midnight-purple&hide_border=true" width="47%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreeeo&layout=compact&theme=midnight-purple&hide_border=true" width="47%"/>
+</p>
 
 ---
 
