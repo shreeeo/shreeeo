@@ -64,13 +64,12 @@
 ---
 
 ## 🎓 Certifications
-
-- [📘 IBM: Python for Data Science, AI, and Development](https://coursera.org/share/d9d03966d7a7f3508f21be8fc6559da9)  
-- [🔐 IBM: Intro to Cybersecurity Tools & Attacks](https://drive.google.com/file/d/1BphZa8cEilD4d9CrtFK7F1NA_FVphfLu/view?usp=sharing)  
+  
 - [🐍 Infosys: Python Programming](https://drive.google.com/file/d/1Lc4-D4RAjo3K7bGfTt2Q-OUPn59hcAg7/view?usp=sharing)
 - [🐍 Infosys: Advanced Python Programming](https://drive.google.com/file/d/1zl_SC4Or7BpUgmBOHOJQ91HEbxT24zBN/view?usp=sharing) 
 - [📊 Power BI - Prism Edu Skills](https://drive.google.com/file/d/1HWVXe9DjdVQis6-dqEZFohbtaQ0UgQhI/view?usp=sharing)
 - [📊 Angular React Bootstrap - A.I.I.I.T.S by Pinnacle Infotech](https://drive.google.com/file/d/1cThiyMcwz_gEJH57o4oVVN9pHPXQVnfl/view?usp=sharing)
+- [🔐 IBM: Intro to Cybersecurity Tools & Attacks](https://drive.google.com/file/d/1BphZa8cEilD4d9CrtFK7F1NA_FVphfLu/view?usp=sharing)
 
 ---
 
