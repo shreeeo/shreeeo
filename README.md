@@ -66,33 +66,11 @@
 ## 🎓 Certifications
 
 - [📘 IBM: Python for Data Science, AI, and Development](https://coursera.org/share/d9d03966d7a7f3508f21be8fc6559da9)  
-- [🔐 IBM: Intro to Cybersecurity Tools & Attacks](https://coursera.org/share/ea54e8c7b3a2b81ad953559df9c3b96a)  
-- [🐍 Infosys: Python Programming](https://drive.google.com/file/d/1di3wjU2n0j2MuU5fBByYMH2UP3BfJ-E2/view?usp=sharing)  
-- [📊 Power BI - Prism Edu Skills](https://drive.google.com/file/d/1lFawJDBOnY3JIUAdqbsTcIP9Oux0kfSf/view?usp=sharing)
-
----
-
-## 🏆 Achievements
-
-- 🥇 **1st Rank** – Second Year B.Sc. CS  
-- 🥉 **3rd Rank** – First Year B.Sc. CS  
-- 🎯 Active Member – National Service Scheme (NSS)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xpatilakshay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="47%" />
-</p>
-
-<p align="center"> 
-  <img src="https://streak-stats.demolab.com?user=xpatilakshay&theme=tokyonight&hide_border=true&date=20250423" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpatilakshay&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
+- [🔐 IBM: Intro to Cybersecurity Tools & Attacks](https://drive.google.com/file/d/1BphZa8cEilD4d9CrtFK7F1NA_FVphfLu/view?usp=sharing)  
+- [🐍 Infosys: Python Programming](https://drive.google.com/file/d/1Lc4-D4RAjo3K7bGfTt2Q-OUPn59hcAg7/view?usp=sharing)
+- [🐍 Infosys: Advanced Python Programming](https://drive.google.com/file/d/1zl_SC4Or7BpUgmBOHOJQ91HEbxT24zBN/view?usp=sharing) 
+- [📊 Power BI - Prism Edu Skills](https://drive.google.com/file/d/1HWVXe9DjdVQis6-dqEZFohbtaQ0UgQhI/view?usp=sharing)
+- [📊 Angular React Bootstrap - A.I.I.I.T.S by Pinnacle Infotech](https://drive.google.com/file/d/1cThiyMcwz_gEJH57o4oVVN9pHPXQVnfl/view?usp=sharing)
 
 ---
 
