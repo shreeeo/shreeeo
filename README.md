@@ -57,7 +57,7 @@
 
 | Project | Tech Stack | Highlights |
 |--------|------------|------------|
-| [📷 Face Expression Recognition]([https://github.com/xpatilakshay/Face-Attendance-System.git](https://github.com/shreeeo/FACIAL-EXPRESSION-RECOGNITION)) | Python, OpenCV, CSV | Real-time face expression recognition |
+| [📷 Face Expression Recognition](https://github.com/shreeeo/FACIAL-EXPRESSION-RECOGNITION) | Python, OpenCV, CSV | Real-time face expression recognition |
 | [💼 Employee Management System](https://github.com/xpatilakshay/Employee-Management-System-Java-Projects.git) | Java Swing, MySQL | GUI CRUD system for employee data |
 | [📊 Data Analysis using Pandas](https://github.com/xpatilakshay/Data-Analytics.git) | Python, Pandas, Matplotlib | Insightful analysis & visualization of real-world datasets |
 
